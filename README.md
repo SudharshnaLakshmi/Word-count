@@ -9,17 +9,19 @@ Anaconda - Python 3.7
    Open the file in read mode and handle it in text mode.
 ### Step 2: 
    Read the text using read() function.
- ### Step 3: 
-    Split the text using space separator. We assume that words in a sentence are separated by a space character.
+### Step 3:
+   Split the text using space separator. We assume that words in a sentence are separated by a space character.
 ### Step 4:  
-    The length of the split list should equal the number of words in the text file.
+The length of the split list should equal the number of words in the text file.    
 ### Step 5: 
-    You can refine the count by cleaning the string prior to splitting or validating the words after splitting.
+You can refine the count by cleaning the string prior to splitting or validating the words after splitting. 
 ### Step 6: 
-    End the program.
+End the program.
+    
 ## PROGRAM:
 
 ```
+
 ## DEVELOPED BY: Sudharshna Lakshmi.S
 ## REGISTER NUMBER: 212221230110
 
